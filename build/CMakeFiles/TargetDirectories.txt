@@ -1,0 +1,8 @@
+/home/funtime/Desktop/cmake_test/train1/build/CMakeFiles/edit_cache.dir
+/home/funtime/Desktop/cmake_test/train1/build/CMakeFiles/rebuild_cache.dir
+/home/funtime/Desktop/cmake_test/train1/build/USER/CMakeFiles/hello.dir
+/home/funtime/Desktop/cmake_test/train1/build/USER/CMakeFiles/edit_cache.dir
+/home/funtime/Desktop/cmake_test/train1/build/USER/CMakeFiles/rebuild_cache.dir
+/home/funtime/Desktop/cmake_test/train1/build/API/CMakeFiles/API.dir
+/home/funtime/Desktop/cmake_test/train1/build/API/CMakeFiles/edit_cache.dir
+/home/funtime/Desktop/cmake_test/train1/build/API/CMakeFiles/rebuild_cache.dir
